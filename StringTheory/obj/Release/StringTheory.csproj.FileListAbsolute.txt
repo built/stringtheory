@@ -1,0 +1,9 @@
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\obj\Release\ResolveAssemblyReference.cache
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\bin\Release\StringTheory.dll
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\bin\Release\StringTheory.pdb
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\bin\Release\nunit.core.dll
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\bin\Release\nunit.framework.dll
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\bin\Release\nunit.core.interfaces.dll
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\bin\Release\nunit.framework.xml
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\obj\Release\StringTheory.dll
+C:\Users\matt\AppData\Local\Temporary Projects\StringTheory\obj\Release\StringTheory.pdb
