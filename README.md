@@ -14,6 +14,5 @@ Don't have any, sorry. I did create some nice documentation for the Java version
 
 License
 --------
-I haven't picked a license for this yet, but I'll probably go with a "free as in I'm not a anti-social control freak" license like MIT or BSD. In the meantime, know that the code is (c) Matt Youell and I don't particularly care what you do with it. 
-If you need a specific licensing document/proof/etc. just email me and I'll help you out.
+This material is available under the MIT license. See license.txt in this repo.
 
