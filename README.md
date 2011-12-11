@@ -6,13 +6,14 @@ The original Java version was lost to the sands of time and the .NET version alm
 
 Theory of Operation
 --------------------
-StringTheory is a mutable text buffer. It's handy for use with templates ahad many utility methods to do little text chores. The underlying concept revolves around the Copy/Cut/Paste metaphor. See the Core class and how it relates to the StringTheory class to understand that.
+StringTheory is a mutable text buffer. It's handy for use with templates and has many utility methods to do little text chores. The underlying concept revolves around the Copy/Cut/Paste metaphor. See the Core class and how it relates to the StringTheory class to understand that.
 
 Docs & Examples
 ----------------
-Don't have any, sorry. I did create some nice documentation for the Java versio. If I find that, I'll post it. Those docs should also have some examples.
+Don't have any, sorry. I did create some nice documentation for the Java version. If I find that, I'll post it. Those docs should also have some examples.
 
 License
 --------
-I haven't picked a license for this yet, but I'll probably go with a "free as in I'm not a control freak" license like MIT or BSD. In the meantime, know that the code is (c) Matt Youell and I don't particularly care what you do with it. If you need a specific document just email me and I'll help you out.
+I haven't picked a license for this yet, but I'll probably go with a "free as in I'm not a anti-social control freak" license like MIT or BSD. In the meantime, know that the code is (c) Matt Youell and I don't particularly care what you do with it. 
+If you need a specific licensing document/proof/etc. just email me and I'll help you out.
 
